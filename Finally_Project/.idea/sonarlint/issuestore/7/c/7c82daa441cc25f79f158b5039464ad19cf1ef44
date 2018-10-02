@@ -1,0 +1,12 @@
+
+jsquid:S1450"VRemove the "request" field and declare it as a local variable in the relevant methods.(ÎëçY
+6squid:S1170"!Make this final field static too.(Úçå‚
+osquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(Ì®¼ˆýÿÿÿÿ8¿·¥¹¦,
+isquid:S00116"SRename this field "JSON_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úçå‚
+psquid:S1450"[Remove the "requestQueue" field and declare it as a local variable in the relevant methods.(©¯Í€
+csquid:UselessImportCheck"<Remove this unused import 'android.support.v4.app.Fragment'.(îñ«úÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÑÎºÛ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ
+jsquid:UselessImportCheck"HRemove this unused import 'android.support.v4.app.FragmentPagerAdapter'.(Ûâ±Õ
+jsquid:UselessImportCheck"CRemove this unused import 'android.support.v4.app.FragmentManager'.(úäçÇüÿÿÿÿ
+`squid:UselessImportCheck">Remove this unused import 'android.support.v4.view.ViewPager'.(«˜‘’

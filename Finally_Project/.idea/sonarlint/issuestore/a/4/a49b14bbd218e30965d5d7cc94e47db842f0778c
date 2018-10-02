@@ -1,0 +1,7 @@
+
+dsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷Ý»½
+isquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ëõ†ÿÿÿÿÿ
+isquid:S00116"TRename this field "image_url" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¾ål
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Áåðÿÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( Ëõ†ÿÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(³ÒÕ•úÿÿÿÿ

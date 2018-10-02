@@ -1,0 +1,12 @@
+
+lsquid:S1450"XRemove the "ttelegram" field and declare it as a local variable in the relevant methods.(Ó¼Ó|
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÒÃô§
+5squid:S1659"!Declare "tvk" on a separate line.(Ó¼Ó|
+msquid:S1450"YRemove the "tinstagram" field and declare it as a local variable in the relevant methods.(Ó¼Ó|
+;squid:S1659"'Declare "ttelegram" on a separate line.(Ó¼Ó|
+fsquid:S1450"RRemove the "tvk" field and declare it as a local variable in the relevant methods.(Ó¼Ó|
+?squid:S1905"+Remove this unnecessary cast to "CardView".(ß°ëA
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÑÎºÛ
+@squid:S1905"+Remove this unnecessary cast to "CardView".(ï«¨›
+Esquid:S1905"+Remove this unnecessary cast to "CardView".(ŠÆœ”øÿÿÿÿ
+csquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(ÒÃô§
